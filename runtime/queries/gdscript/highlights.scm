@@ -264,7 +264,7 @@
     "export_flags_3d_navigation" "export_flags_3d_physics" "export_flags_3d_render"
     "export_flags_avoidance" "export_global_dir" "export_global_file" "export_group"
     "export_multiline" "export_node_path" "export_placeholder" "export_range" "export_storage"
-    "export_subgroup" "export_tool_button" "icon" "onready" "rpc" "static_unload" "tool"
+    "export_subgroup" "export_tool_button" "icon" "onready" "required" "rpc" "static_unload" "tool"
     "warning_ignore" "warning_ignore_restore" "warning_ignore_start"))
 
 ; Builtin Types
@@ -618,7 +618,7 @@
     "PROPERTY_USAGE_INTERNAL" "PROPERTY_USAGE_KEYING_INCREMENTS" "PROPERTY_USAGE_NEVER_DUPLICATE"
     "PROPERTY_USAGE_NIL_IS_VARIANT" "PROPERTY_USAGE_NODE_PATH_FROM_SCENE_ROOT"
     "PROPERTY_USAGE_NO_EDITOR" "PROPERTY_USAGE_NO_INSTANCE_STATE" "PROPERTY_USAGE_NONE"
-    "PROPERTY_USAGE_READ_ONLY" "PROPERTY_USAGE_RESOURCE_NOT_PERSISTENT"
+    "PROPERTY_USAGE_READ_ONLY" "PROPERTY_USAGE_REQUIRED" "PROPERTY_USAGE_RESOURCE_NOT_PERSISTENT"
     "PROPERTY_USAGE_RESTART_IF_CHANGED" "PROPERTY_USAGE_SCRIPT_DEFAULT_VALUE"
     "PROPERTY_USAGE_SCRIPT_VARIABLE" "PROPERTY_USAGE_SECRET" "PROPERTY_USAGE_STORAGE"
     "PROPERTY_USAGE_STORE_IF_NULL" "PROPERTY_USAGE_SUBGROUP" "PROPERTY_USAGE_UPDATE_ALL_IF_MODIFIED"
